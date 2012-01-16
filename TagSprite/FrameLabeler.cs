@@ -54,7 +54,7 @@ namespace TagSprite
 
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {
-            if (keyData == (Keys.Control | Keys.PageDown))
+            if (keyData == (Keys.Alt | Keys.Down))
             {
                 if (this.frameListBox.SelectedIndex < this.frameListBox.Items.Count - 1)
                 {
@@ -63,7 +63,7 @@ namespace TagSprite
                 }
                 return true;
             }
-            else if (keyData == (Keys.Control | Keys.PageUp))
+            else if (keyData == (Keys.Alt | Keys.Up))
             {
                 if (this.frameListBox.SelectedIndex > 0)
                 {

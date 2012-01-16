@@ -12,7 +12,7 @@ TagSprite is programmed using C# with WinForms. Although the .NET Framework and 
 USAGE
 =====
 
-After running TagSprite, go to the File menu and select "Import Image..." (alternatively, press Ctrl+I). From here, select a spritesheet from your game or application. Once the spritesheet is imported, you will see a list of "untitled" frames that you can label. Selecting any frame will display a preview of the frame on the right side of the window. Go through each frame and label it as you desire. Note that for quick cycling between sprites, you may use the shortcut Ctrl+PgUp to go to the previous sprite, or Ctrl+PgDn to go to the next one.
+After running TagSprite, go to the File menu and select "Import Image..." (alternatively, press Ctrl+I). From here, select a spritesheet from your game or application. Once the spritesheet is imported, you will see a list of "untitled" frames that you can label. Selecting any frame will display a preview of the frame on the right side of the window. Go through each frame and label it as you desire. Note that for quick cycling between sprites, you may use the shortcut Alt+Up to go to the previous sprite, or Alt+Down to go to the next one.
 
 After you are finished labeling the frames, you may go to the File menu and select "Save" (or press Ctrl+S) to create a .eds file next to your image. If you wish to edit the labels without starting over, simply load the metadata file using the File > "Open Sheet..." command (Ctrl+O).
 
