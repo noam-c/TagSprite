@@ -23,8 +23,11 @@ Most of the code is Copyright 2012 Noam Chitayat. Contributors retain copyright 
 
 The TagSprite source is released under the terms of the MIT license. For the full text of the MIT license in use, please refer to the LICENSE.txt file.
 
+TagSprite references the Json.NET library. The Json.NET library is copyright James Newton-King. All rights reserved.
+
 DEPENDENCIES
 ============
 
 TagSprite requires the .NET Framework 4.0 or above or a compatible version of the Mono framework. TagSprite can be built using any IDE that reads C# .sln files, such as Visual Studio 2010 or MonoDevelop.
 
+TagSprite requires the Json.NET library: http://json.codeplex.com
